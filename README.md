@@ -57,22 +57,6 @@ pip install -r requirements.txt
    python train_models.py  # Trains and evaluates ML models
    ```
 
-## Project Structure
-
-```
-├── data/                  # Dataset files (e.g., diabetes.csv)
-├── notebooks/             # Jupyter notebooks for analysis
-│   └── Diabetes_Analysis.ipynb
-├── scripts/               # Python scripts for modular execution
-│   ├── preprocess.py
-│   ├── apriori_analysis.py
-│   └── train_models.py
-├── results/               # Output files (charts, rules, model metrics)
-├── report/                # Full project report PDF
-│   └── Bao_Cao_KPDL_Nhom_15.pdf
-├── requirements.txt       # Dependencies
-└── README.md              # This file
-```
 
 ## Key Findings and Results
 
